@@ -177,7 +177,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "s2tosx"
+name = "s3tosx"
 version = "0.1.0"
 dependencies = [
  "midir",
